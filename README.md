@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 项目集合：</br>
 [前端进阶](https://sayid760.gitee.io/front-end-note/) </br>
-<!-- [前端思维导图](https://www.yuque.com/u469025/kb) -->
 [码经小程序](https://github.com/sayid760/fe-daily-question)  </br>
 [handyui系列](https://github.com/handyui)
+
+<!-- [前端思维导图](https://www.yuque.com/u469025/kb) -->
